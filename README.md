@@ -1,9 +1,6 @@
-# Ministry of Health template
+# Whakamaua monitoring
 
-This repository provides the template for Ministry of Health repositories, a short description of what your repository is should go here. This summary should include a contact email and link to relevant Ministry of health pages.
-
-To create a new template, click the `use this template` -> `create repository` to create a new repository based on the template. All repositories should be created as private in the first instance before being shared publicly.
-
+This repository provides the underlying data for the [whakamaua dashboard](https://minhealthnz.shinyapps.io/WhakamauaDashboard/). 
 
 ---------------------------------------------------------------------------------
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). For more information, view the [Ministry of Health's copyright statement](https://www.health.govt.nz/about-site/copyright).
