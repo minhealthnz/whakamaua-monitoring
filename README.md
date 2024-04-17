@@ -1,5 +1,9 @@
 # Whakamaua monitoring
 
+The measures included to monitor Whakamaua have been selected to track progress on a regular basis and provide a broad view of system performance against our four objectives. Achieving these objectives will make a significant contribution to realising the plan’s high-level outcomes for Māori health and wellbeing. While there are many measures that could be assessed and there are significant opportunities for research and insights, it is important to identify an initial set that can be reported on regularly over the period of the plan.
+
+Whakamaua is available [here](https://www.health.govt.nz/publication/whakamaua-maori-health-action-plan-2020-2025).
+
 This repository provides the underlying data for the [whakamaua dashboard](https://minhealthnz.shinyapps.io/WhakamauaDashboard/). 
 See the [Iwi-Māori Partnership Board](https://github.com/minhealthnz/iwi-maori-partnership-boards) repository for the shape files and mapping files for Iwi-Māori Partnership Boards. 
 
