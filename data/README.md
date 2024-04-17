@@ -1,6 +1,8 @@
-# This files should provide high-level information on the data included
+# What is including in the file?
 --------------------------------------------------------------
 
-* `name_of_file.csv` - holds information on these things
+* `whakamaua_dashboard.xlsx` - holds the underlying data for each indicator in the whakamaua dashboard.
+Excel files:
+
 
 
